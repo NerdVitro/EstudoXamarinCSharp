@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Reposit\u00F3rios GitHub\\EstudoXamarinCSharp\\Projetos\\FirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B798C45-7A34-4486-939D-C10C3903054D}|FirstApp\\FirstApp\\FirstApp.csproj|d:\\reposit\u00F3rios github\\estudoxamarincsharp\\projetos\\firstapp\\firstapp\\firstapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{9B798C45-7A34-4486-939D-C10C3903054D}|FirstApp\\FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\firstapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B798C45-7A34-4486-939D-C10C3903054D}|FirstApp\\FirstApp\\FirstApp.csproj|d:\\reposit\u00F3rios github\\estudoxamarincsharp\\projetos\\firstapp\\firstapp\\firstapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B798C45-7A34-4486-939D-C10C3903054D}|FirstApp\\FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\firstapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Reposit\u00F3rios GitHub\\EstudoXamarinCSharp\\Projetos\\FirstApp\\FirstApp\\FirstApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "FirstApp\\FirstApp\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Reposit\u00F3rios GitHub\\EstudoXamarinCSharp\\Projetos\\FirstApp\\FirstApp\\FirstApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "FirstApp\\FirstApp\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:31:09.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Reposit\u00F3rios GitHub\\EstudoXamarinCSharp\\Projetos\\FirstApp\\FirstApp\\FirstApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "FirstApp\\FirstApp\\MainPage.xaml",
+              "ToolTip": "D:\\Reposit\u00F3rios GitHub\\EstudoXamarinCSharp\\Projetos\\FirstApp\\FirstApp\\FirstApp\\MainPage.xaml",
+              "RelativeToolTip": "FirstApp\\FirstApp\\MainPage.xaml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-10T00:30:52.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

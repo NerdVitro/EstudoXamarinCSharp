@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FirstApp.MainPage">
+
+    <StackLayout x:Name="SteckLayoutFundo" Padding="30" Spacing="20" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+
+        <Label x:Name="LblTempoTrabalho" Text="Tempo de Trabalho" FontSize="15" HorizontalOptions="Center"/>
+        <Entry x:Name="EtyTempoTrabalho" 
+               Placeholder="25" 
+               Text="25"
+               Keyboard="Numeric" 
+               FontSize="15" 
+               WidthRequest="100" 
+               Focused="EtyTempoTrabalho_Focused"
+               HorizontalOptions="Center" />
+
+        <Label x:Name="LblTempoPausa" Text="Tempo de Pausa (minutos)" FontSize="15" HorizontalOptions="Center"/>
+        <Entry x:Name="EtyTempoPausa" 
+               Placeholder="5" 
+               Text="5"
+               Keyboard="Numeric" 
+               FontSize="15" 
+               WidthRequest="100" 
+               Focused="EtyTempoPausa_Focused"
+               HorizontalOptions="Center"/>
+
+        <Label x:Name="LblTimer" 
+               Text="25:00" 
+               FontSize="50" 
+               HorizontalOptions="Center" />
+
+        <Button Text="Iniciar" 
+                x:Name="BtnIniciar"
+                CornerRadius ="10"
+                BorderWidth="1"
+                Clicked="BtnIniciar_Clicked"
+                FontSize="15"
+                HorizontalOptions="Center"
+                WidthRequest="100" />
+
+        <Button Text="Resetar" 
+                x:Name="BtnResetar"
+                CornerRadius ="10"
+                BorderWidth="1"
+                Clicked="BtnResetarar_Clicked"
+                FontSize="15"
+                HorizontalOptions="Center"
+                WidthRequest="100"/>
+
+    </StackLayout>
+
+</ContentPage>
